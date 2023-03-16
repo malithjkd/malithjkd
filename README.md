@@ -16,7 +16,7 @@ Vision-based approaches are widely used in research to classify objects. However
 The feel of the objects may reveal the distinguishing characteristics of the object or the state of the object, which may help to classify them. Haptic-based object classification has gained popularity in recent years. However, the majority of object classification studies only use sensory information for classification. The goal of my research is to construct a few additional features for object classification and identify the best feature set.
 
 
-![Deformable Object Classification](/images/deformation_based_classfication/orange.png)
+![Deformable Object Classification](/images/deformation_based_classfication/baloon.jpg)
 
 
 Summary of the project can find [hear.](https://youtu.be/tn_LN6VYbTo) 
