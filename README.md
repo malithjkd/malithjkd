@@ -1,22 +1,20 @@
 # K.D.M. Jayawardhana
 ---
 
-Masters student from University of Moratuwa. Engaging in haptic based object classification. My surpervisor is [Dr A.M. Harsha.S. Abeykoo](https://harsha-haptics.org/). I am willing to work until robots extrapolate the market. 
+Masters student from University of Moratuwa. Engaging in haptic based object classification. My supervisor is [Dr A.M. Harsha.S. Abeykoo](https://harsha-haptics.org/). I am willing to work until robots extrapolate the market. 
 
 ---
 
 ## Haptic based surface stiffness identification using deep learning 
 
-2019 - 2022
+2019 - 2022 [Robotics and automation laboratory](https://uom.lk/elect/lab-facilities/robotics-and-automation-laboratory)
 
 ---
 
-Haptic sensation is crusel to undestant the objects behavir or state while grasping or manipulating. Feedbacks from the Force feedbaks, position variation relative to time 
-
----
+Haptic sensation is crucial to undestand the objects behaviour or state while grasping or manipulating. Feedbacks from the Force feedbaks, position variation relative to time 
 
 
-
+For more information, [project Video](https://youtu.be/tn_LN6VYbTo) 
 
 
 
