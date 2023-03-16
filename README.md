@@ -19,6 +19,7 @@ The feel of the objects may reveal the distinguishing characteristics of the obj
 
 
 Summary of the project can find [hear.](https://youtu.be/tn_LN6VYbTo) 
+Data acquisition [video](https://photos.app.goo.gl/aR44i6vJQHS5Hqws6) 
 
 *Publications*
 
