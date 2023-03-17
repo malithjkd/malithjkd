@@ -24,7 +24,7 @@ Data anlysis and feature creation. [GitLab](https://gitlab.com/kdmj/msc_uom/-/tr
 ![Deformable Object Classification](/images/deformation_based_classfication/collage.png)
 
 
-Summary of the project can find [hear.](https://youtu.be/tn_LN6VYbTo) 
+The summary of the project can be found [here.](https://youtu.be/tn_LN6VYbTo) 
 
 Data acquisition [video](https://photos.app.goo.gl/aR44i6vJQHS5Hqws6) 
 
