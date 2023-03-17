@@ -17,7 +17,7 @@ The feel of the objects may reveal the distinguishing characteristics of the obj
 
 Force controller and data acquisition. [GitHub](https://github.com/malithjkd/MSc-UoM/tree/master/Sensoray826)
 
-Data anlysis and feature creation. [GitLab](data analysis and feature creation)
+Data anlysis and feature creation. [GitLab](https://gitlab.com/kdmj/msc_uom/-/tree/main/Data%20processing)
 
 
 
