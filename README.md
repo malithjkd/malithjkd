@@ -36,4 +36,4 @@ Data anlysis and feature creation. [GitLab](https://gitlab.com/kdmj/msc_uom/-/tr
 ---
 
 
-## [malithjkd.google.io](https://malithjkd.github.io/)
+## [\faGlobe malithjkd.google.io](https://malithjkd.github.io/)
