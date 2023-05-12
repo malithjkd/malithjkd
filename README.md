@@ -5,7 +5,7 @@
 
 ---
 
-Masters student from University of Moratuwa. Engaging in haptic based object classification. My supervisor is [Dr A.M. Harsha.S. Abeykoo](https://harsha-haptics.org/). I am willing to work until robots extrapolate the market. 
+Masters student from University of Moratuwa. Engaging in haptic based object classification. My supervisor is [Dr A.M. Harsha.S. Abeykoon](https://harsha-haptics.org/). I am willing to work until robots extrapolate the market. 
 
 
 
